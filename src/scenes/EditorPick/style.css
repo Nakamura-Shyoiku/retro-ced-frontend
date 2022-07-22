@@ -1,0 +1,22 @@
+.editor-nav {
+  font-family: Avenir;
+  font-size: 1.7em;
+}
+
+.active-tab {
+  font-family: 'Cabana';
+  font-size: 2.2em;
+}
+
+.editor-link {
+  color: #292b2c;
+}
+
+.editor-link p {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+.active-tab p {
+  padding: 0;
+}

@@ -1,0 +1,5 @@
+.nav-link.active:hover {
+  color: #fff;
+  cursor: pointer;
+  background-color: #014c8c;
+}

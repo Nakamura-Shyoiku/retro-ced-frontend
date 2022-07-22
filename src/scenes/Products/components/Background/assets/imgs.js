@@ -1,0 +1,20 @@
+/* eslint-disable global-require */
+export default ({
+  1: require('./1.jpeg'),
+  2: require('./2.jpeg'),
+  3: require('./3.jpeg'),
+  4: require('./4.jpeg'),
+  5: require('./5.jpeg'),
+  6: require('./6.jpeg'),
+  7: require('./7.jpeg'),
+  8: require('./8.jpeg'),
+  9: require('./9.jpeg'),
+  10: require('./10.jpeg'),
+  11: require('./11.jpeg'),
+  12: require('./12.jpeg'),
+  13: require('./13.jpeg'),
+  14: require('./14.jpeg'),
+  15: require('./15.jpeg'),
+  16: require('./16.jpeg'),
+  17: require('./17.jpeg'),
+});

@@ -1,0 +1,98 @@
+.influencer-link:hover {
+  text-decoration: none !important;
+}
+.white-bar {
+  background: white;
+  color: black;
+  text-align: center;
+  padding: 5px;
+  width: 90%;
+  top: 75%;
+  position: absolute;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  transition: all 0.5s ease;
+  bottom: 0;
+  overflow: hidden;
+  left: 5%;
+  right: 5%;
+}
+
+.black-bar {
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+  width: 100%;
+  top: 75%;
+  position: absolute;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  transition: all 0.5s ease;
+  bottom: 0;
+  overflow: hidden;
+}
+.black-bar-right {
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+  width: calc(100% - 15px);
+  top: 75%;
+  position: absolute;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  transition: all 0.5s ease;
+  bottom: 0;
+  overflow: hidden;
+}
+.big-black-bar-right {
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+  width: calc(100% - 15px);
+  top: 79.17%;
+  position: absolute;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  transition: all 0.5s ease;
+  bottom: 0;
+  overflow: hidden;
+}
+.flat-black-bar-right {
+  background: rgba(0,0,0,0.4);
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+  width: calc(100% - 15px);
+  top: 68.75%;
+  position: absolute;
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  transition: all 0.5s ease;
+  bottom: 0;
+  overflow: hidden;
+}
+
+.spotlight-title {
+  font-family: Avenir;
+  font-size: 1.1em;
+  padding-top: 1em;
+  padding-bottom: 0.8em;
+  color: rgb(43,41,68);
+}
+
+.image--container {
+  height: 25rem;
+}
+@media (max-width: 1440px) {
+  .image--container {
+    height: 20rem;
+  }
+}
+@media (max-width: 1024px) {
+  .image--container {
+    height: 15rem;
+  }
+}
+@media (max-width: 768px) {
+  .image--container {
+    height: 10rem;
+  }
+}

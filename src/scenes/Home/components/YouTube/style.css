@@ -1,0 +1,7 @@
+.youtube-vid-container {
+  height: 100%;
+}
+
+.youtube-vid-container > div {
+  height: 70vh;
+}

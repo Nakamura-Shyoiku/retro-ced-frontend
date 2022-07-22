@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "transform-decorators-legacy",
+    "jsx-control-statements"
+  ],
+  "retainLines": true,
+  "env": {
+    "test": {
+      "plugins": ["transform-es2015-modules-commonjs"]
+    }
+  }
+}

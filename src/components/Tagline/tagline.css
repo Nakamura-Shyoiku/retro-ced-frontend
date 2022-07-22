@@ -1,0 +1,29 @@
+.tagline {
+    /* // #f94988 pink color */
+    background: #f5f5f5;
+    font-family: 'Proxima Nova Light';
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    height: 40px;
+    width: 100%;
+}
+
+.slide {
+    position: absolute;
+    transition: all 0.8s ease-in-out;
+    visibility: visible;
+}
+
+.hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+
+@media (max-width: 468px) {
+    .tagline {
+        padding: 10px;
+        display: none;
+    }
+}

@@ -1,0 +1,18 @@
+#instafeed {
+    display: flex;
+    justify-content: space-around;
+}
+
+#instafeed > div {
+    display: none;
+}
+
+#instafeed > a {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#instafeed > a > img {
+    object-fit: cover;
+}

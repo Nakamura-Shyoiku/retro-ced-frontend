@@ -1,0 +1,10 @@
+.nav-tabs, .nav-link:focus, .nav-tabs, .nav-link:hover {
+  color: black;
+  font-weight: 600 !important;
+}
+
+.active-tab-nav-right {
+  color: black !important;
+  font-weight: bold !important;
+  text-shadow: 1px 1px rgb(232, 232, 232);
+}

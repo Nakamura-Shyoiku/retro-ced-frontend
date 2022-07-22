@@ -1,0 +1,6 @@
+@media (max-width: 1024px) {
+  .color-filter-input {
+    width: 23px !important;
+    height: 23px !important;
+  } 
+}
